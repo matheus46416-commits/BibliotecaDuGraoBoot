@@ -1,0 +1,5 @@
+br/edu/fiec/biblioteca/model/Cliente.class
+br/edu/fiec/biblioteca/model/Funcionario.class
+br/edu/fiec/biblioteca/service/ClienteService.class
+br/edu/fiec/biblioteca/BibliotecaApplication.class
+br/edu/fiec/biblioteca/model/Livro.class
